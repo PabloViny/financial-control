@@ -1,4 +1,4 @@
-# 💰 Controle Financeiro Pessoal
+# 💰 Financial Control
 
 Este é um projeto simples de controle financeiro feito com **HTML, CSS e JavaScript**.  
 A ideia é permitir que o usuário registre entradas e saídas, veja o saldo atual e acompanhe o histórico de movimentações.  
