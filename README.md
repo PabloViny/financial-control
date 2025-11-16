@@ -12,8 +12,6 @@ Foi um ótimo projeto para treinar manipulação da DOM, eventos e lógica com a
 
 ![Prévia](./preview.png)
 
-*(Coloque sua imagem com esse nome na raiz do repositório.)*
-
 ---
 
 ## 🚀 Funcionalidades
@@ -38,5 +36,3 @@ Foi um ótimo projeto para treinar manipulação da DOM, eventos e lógica com a
 
 Não tem segredo: basta abrir o arquivo **index.html** no navegador.  
 O CSS e o JavaScript já estão linkados no arquivo, então tudo deve funcionar automaticamente.
-
-Se preferir rodar com um servidor local (opcional), pode usar a extensão Live Server do VS Code.
